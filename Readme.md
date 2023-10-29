@@ -67,10 +67,10 @@ Os projetos foram deenvolvidos, seguindo o padrão TDD, primeiro foi realizado o
 
 Projeto Test sendo executado
 <picture>  
-  <img alt="Projeto Teste sendo executado" src="ExecucaoTestes.png" >
+  <img alt="Projeto Teste sendo executado" src="https://github.com/GabrielaBrazSantos/teste-unitario-tdd/blob/main/ExecucaoTestes.PNG" >
 </picture>
 
 Programa Console sendo executado
 <picture>  
-  <img alt="Projeto Teste sendo executado" src="ExecucaoConsole.png" >
+  <img alt="Projeto Teste sendo executado" src="https://github.com/GabrielaBrazSantos/teste-unitario-tdd/blob/main/ExecucaoConsole.PNG" >
 </picture>
