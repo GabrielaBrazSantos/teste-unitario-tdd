@@ -63,7 +63,7 @@ O projeto  deve estar estruturado da seguinte maneira:
 O projeto deve ser realizado do zero, tendo um arquivo de solução que agrupe os dois projetos (Console e Teste).
 
 ## Resolução
-Os projetos foram deenvolvidos, seguindo o padrão TDD, primeiro foi realizado o projeto de Test, submentendo a Classe Calculadora sem implementação dos métodos. Em seguida, foi realizado o projeto a implementação dos métodos na Classe Calculadora. Após essas duas etapas, foi criado a Classe Program e implementado a aplicação console Console e feito testes manuais, conforme mostra as imagens a seguir:
+Os projetos foram desenvolvidos, seguindo o padrão TDD, primeiro foi realizado o projeto de Test, submetendo a Classe Calculadora sem a implementação dos métodos. Em seguida, foi realizado a implementação dos métodos na Classe Calculadora. Após essas duas etapas, foi criado a Classe Program e implementado a aplicação console Console e feito testes manuais adicionais, conforme mostra as imagens a seguir:
 
 Projeto Test sendo executado
 <picture>  
